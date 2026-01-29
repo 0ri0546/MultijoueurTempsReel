@@ -1,10 +1,8 @@
 <div align="center">
 
-<h1><i>Networking PvP</i></h1>
-
-<h5><i>A real-time multiplayer FFA game</i></h5>
-
-<h6><i>Platform: Windows (x64) / Engine : Unreal Engine (5.6.1)</i></h6>
+# Arena Dash
+## A real-time multiplayer game
+Platform: Windows (x64) / Engine : Unreal Engine (5.6.1)
 
 </div>
 
@@ -15,17 +13,15 @@ You will need :
 
  Then, run the following commands inside a terminal :
 ```bash
-git clone https://github.com/Quest-Education-Group/par-2-atari-s2p1-19
-cd par-2-atari-s2p1-19
+git clone https://github.com/Quest-Education-Group/par-2-atari-s2p1-12
+cd par-2-atari-s2p1-12
 ```
-Finally, open the `UE_Networking_PvP.uproject` file with Unreal Engine 5.6.1.
+Finally, open the `ArenaDash.uproject` file with Unreal Engine 5.6.1.
 
 You should be good to go!
 
 # Building the project
 Inside Unreal Engine, go to `Platforms > Windows` and click `Package Project` after choosing the correct informations for your system.
-
-![Inside the Editor, to the right of the play / pause buttons](Static/how-to-build.png)
 
 # Project documentation
 To read the project documentation, go to [DocumentationProjet.pdf](DocumentationProjet.pdf).
@@ -34,5 +30,5 @@ To read the project documentation, go to [DocumentationProjet.pdf](Documentation
 This project is licensed under the [MIT License](LICENSE.txt).
 
 <h3>
-<div align="center"><i>Game made by Dylan Hollemaert.</i></div>
+<div align="center"><i>Game made by Lucas MARCUCCI.</i></div>
 </h3>
