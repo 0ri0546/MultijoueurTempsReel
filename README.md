@@ -29,7 +29,7 @@ To join a game, press `Refresh`, then `Join`.
 After that, all players need to stand on the central platform so that the host can start the game.
 
 # Project documentation
-To read the project documentation, go to [DocumentationProjet.pdf](DocumentationProjet.pdf).
+To read the project documentation, go to [Documentation]([DocumentationProjet.pdf](https://docs.google.com/document/d/1rQ8DuPyJ1KhZwhn2Ejd5c_RsxGJMXqDK5EeBrtRKY-w/edit?usp=sharing)).
 
 # License
 This project is licensed under the [MIT License](LICENSE.txt).
