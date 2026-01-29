@@ -23,6 +23,11 @@ You should be good to go!
 # Building the project
 Inside Unreal Engine, go to `Platforms > Windows` and click `Package Project` after choosing the correct informations for your system.
 
+# Run
+Once the game has launched, specify the `maximum number of players` and press the `Host button` to create a game.
+To join a game, press `Refresh`, then `Join`.
+After that, all players need to stand on the central platform so that the host can start the game.
+
 # Project documentation
 To read the project documentation, go to [DocumentationProjet.pdf](DocumentationProjet.pdf).
 
